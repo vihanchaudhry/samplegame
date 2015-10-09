@@ -197,3 +197,5 @@ FakesAssemblies/
 
 # Xcode proejcts
 xcuserdata
+
+.DS_Store
