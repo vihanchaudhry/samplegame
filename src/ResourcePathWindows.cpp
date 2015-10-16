@@ -2,5 +2,5 @@
 
 std::string resourcePath()
 {
-	return "..\\";
+	return "..\\..\\";
 }
